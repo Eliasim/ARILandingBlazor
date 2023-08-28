@@ -1,13 +1,26 @@
-﻿using Microsoft.JSInterop;
+﻿using Microsoft.AspNetCore.Components;
+using Microsoft.JSInterop;
+using MimeKit;
+using ARILandingBlazor.Client.Interfaces;
+using ARILandingBlazor.Client.Model;
+using System.Xml.Linq;
 
 namespace ARILandingBlazor.Client.Pages
 {
     public partial class Index
     {
+        [Inject]
+        private IMailService _mailService { get; set; }
+
         public bool MensualPaymentType = false;
-        public string Plan { get; set; } = "Anual";
+        public string Name { get; set; } = "";
+        public string Mail { get; set; } = "";
+        public string Message { get; set; } = "";
+        public string Phone { get; set; } = "";
+        public string Company { get; set; } = "";
         public string Demo { get; set; } = "";
         public string Package { get; set; } = "";
+        public string Plan { get; set; } = "Anual";
         public void SwitchPayment()
         {
             MensualPaymentType = !MensualPaymentType;
@@ -39,6 +52,27 @@ namespace ARILandingBlazor.Client.Pages
         {
             Package = "PLAN PLATINUM";
             await JSRuntime.InvokeVoidAsync("GoContact");
+        }
+        public async Task SendEMail()
+        {
+            EmailBody emailBody = new EmailBody()
+            {
+                Email = Mail,
+                Name = Name,
+                Text = Message,
+                Phone = Phone,
+                Company = Company,
+                Package = Package,
+                Demo = Demo,
+                Plan = Plan
+            };
+
+            var res = await _mailService.Email(emailBody);
+
+            if (res != null)
+            {
+                Console.WriteLine("GG");
+            }
         }
     }
 

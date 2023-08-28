@@ -316,44 +316,44 @@
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <form id="form">
+                    <div id="form">
                         <div class="row">
                             <div class="form-group col-md-6">
                                 <label class="text-white" for="emailsjs_name">Nombre*</label>
-                                <input type="name" class="form-control" name="emailsjs_name" id="emailsjs_name" required>
+                                <input @bind-value="Name" type="name" class="form-control" name="emailsjs_name" id="emailsjs_name" required>
                             </div>
                             <div class="form-group col-md-6">
                                 <label class="text-white" for="emailjs_email">Correo*</label>
-                                <input type="email" class="form-control" name="emailjs_email" id="emailjs_email" required>
+                                <input @bind-value="Mail" type="email" class="form-control" name="emailjs_email" id="emailjs_email" required>
                             </div>
                         </div>
                         <div class="row">
                             <div class="form-group col-md-6">
                                 <label class="text-white" for="emailjs_phone">Teléfono*</label>
-                                <input type="text" class="form-control" name="emailjs_phone" id="emailjs_phone" required>
+                                <input @bind-value="Phone" type="text" class="form-control" name="emailjs_phone" id="emailjs_phone" required>
                             </div>
                             <div class="form-group col-md-6">
                                 <label class="text-white" for="emailjs_company">Empresa</label>
-                                <input type="text" class="form-control" name="emailjs_company" id="emailjs_company">
+                                <input @bind-value="Company" type="text" class="form-control" name="emailjs_company" id="emailjs_company">
                             </div>
                         </div>
                         <div class="form-group">
                             <label class="text-white" for="emailjs_message">Mensaje</label>
-                            <textarea class="form-control borderTop" rows="3" type="text" name="emailjs_message" id="emailjs_message"></textarea>
-                            <input class="form-control borderBottom" rows="3" type="text" name="emailjs_buy" id="emailjs_buy" @bind="Package" readonly>
+                            <textarea @bind="Message" class="form-control borderTop" rows="3" type="text" name="emailjs_message" id="emailjs_message"></textarea>
+                            <input @bind-value="Package" class="form-control borderBottom" rows="3" type="text" name="emailjs_buy" id="emailjs_buy" readonly>
                         </div>
 
                         <!-- Input Ocultado -->
                         <div class="field" style="display: none;">
-                            <input type="text" name="emailjs_demo" id="emailjs_demo" @bind="Demo" readonly>
+                            <input @bind-value="Demo" type="text" name="emailjs_demo" id="emailjs_demo" readonly>
                         </div>
                         <div class="field" style="display: none;">
-                            <input type="text" name="emailjs_plan" id="emailjs_plan" @bind="Plan" readonly>
+                            <input @bind-value="Plan" type="text" name="emailjs_plan" id="emailjs_plan" readonly>
                         </div>
                         <!-- Input Ocultado -->
 
-                        <input class="btn font-weight-bold atlas-cta atlas-cta-wide cta-green my-3 text-white" type="submit" id="button" value="Enviar">
-                    </form>
+                        <input onclick="@SendEMail" class="btn font-weight-bold atlas-cta atlas-cta-wide cta-green my-3 text-white" type="submit" id="button" value="Enviar">
+                    </div>
                 </div>
             </div>
         </div>

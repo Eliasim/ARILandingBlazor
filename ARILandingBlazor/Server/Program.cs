@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.ResponseCompression;
+using ARILandingBlazor.Server.Utilities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+builder.Services.AddScoped<MailFactory>();
 
 var app = builder.Build();
 

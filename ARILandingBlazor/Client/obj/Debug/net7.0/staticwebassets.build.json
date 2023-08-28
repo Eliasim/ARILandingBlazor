@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3be+yHQy6obRn/qTpmYpfGf24xzgfN0azJLGLnP32pI=",
+  "Hash": "KKZwbpxdBzVy47YcyS2ZcFA6kNK/y7AcaTKw2qjGJGM=",
   "Source": "ARILandingBlazor.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.10\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.10\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.10\\staticwebassets\\AuthenticationService.js"
+    },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\ARILandingBlazor.Client.dll",
       "SourceId": "ARILandingBlazor.Client",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.5\\build\\net7.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BouncyCastle.Cryptography.dll",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BouncyCastle.Cryptography.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\lib\\net6.0\\BouncyCastle.Cryptography.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.5.kckbg6s177.js",
@@ -238,6 +272,23 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MailKit.dll",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MailKit.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\mailkit\\4.1.0\\lib\\net6.0\\MailKit.dll"
+    },
+    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -252,7 +303,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -269,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -286,7 +354,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -303,7 +371,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -337,7 +422,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -541,7 +626,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\lib\\net7.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -609,7 +694,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.jsinterop\\7.0.5\\lib\\net7.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.jsinterop\\7.0.10\\lib\\net7.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -695,6 +780,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\lib\\net7.0\\Microsoft.Win32.Registry.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MimeKit.dll",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MimeKit.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\mimekit\\4.1.0\\lib\\net6.0\\MimeKit.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\mscorlib.dll",
@@ -2805,6 +2907,23 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\lib\\net7.0\\System.Security.Cryptography.OpenSsl.dll"
     },
     {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Pkcs.dll",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Cryptography.Pkcs.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.2\\lib\\net7.0\\System.Security.Cryptography.Pkcs.dll"
+    },
+    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.dll",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -3774,23 +3893,6 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
-      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\1reeFMMO.gz",
-      "SourceId": "ARILandingBlazor.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\2+fHoFba.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -3806,6 +3908,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\2wYATwY8.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BouncyCastle.Cryptography.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BouncyCastle.Cryptography.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BouncyCastle.Cryptography.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\2xBuUkj7.gz",
@@ -3891,6 +4010,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\3tiY9KvZ.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\46GZxlir.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\5cQQf6sA.gz",
@@ -4044,23 +4197,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\8AMnjjtc.gz",
-      "SourceId": "ARILandingBlazor.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\8dZlzZuQ.gz",
@@ -4301,23 +4437,6 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.dll"
     },
     {
-      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\ascmFdo0.gz",
-      "SourceId": "ARILandingBlazor.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\avz6LSEH.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -4454,6 +4573,23 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Globalization.Calendars.dll"
     },
     {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\CbbrzAFY.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\cf5nn9HY.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -4571,6 +4707,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\D27Xxi71.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\d5hs8cLV.gz",
@@ -4707,6 +4860,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\E8Femc1+.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MimeKit.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MimeKit.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MimeKit.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\EcpI33wM.gz",
@@ -4964,6 +5134,23 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Data.dll"
     },
     {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\FS0ki4OE.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Cryptography.Pkcs.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Pkcs.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Pkcs.dll"
+    },
+    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\FS3kbbxZ.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -5049,6 +5236,23 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Formats.Tar.dll"
     },
     {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\H4Y8h5z3.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\HDeMlopn.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -5115,23 +5319,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\HUyAL2na.gz",
-      "SourceId": "ARILandingBlazor.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\hX+5+MoD.gz",
@@ -5336,6 +5523,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\jcO5AN5o.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\jJqvwmDC.gz",
@@ -5610,6 +5814,23 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.FileSystem.dll"
     },
     {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\m4hXEzP+.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MailKit.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MailKit.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MailKit.dll"
+    },
+    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\MeFEAsXr.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -5727,23 +5948,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\NJdfSdi1.gz",
-      "SourceId": "ARILandingBlazor.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\NLgtrTbg.gz",
@@ -6018,23 +6222,6 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
-      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\PQf1yq4k.gz",
-      "SourceId": "ARILandingBlazor.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\pRfmKGWe.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -6288,6 +6475,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Principal.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\S5Nnhq6Q.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\sEjE0xMS.gz",
@@ -6596,6 +6800,23 @@
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll"
     },
     {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\VqYml2KQ.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\w0coMdCK.gz",
       "SourceId": "ARILandingBlazor.Client",
       "SourceType": "Computed",
@@ -6628,6 +6849,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.AccessControl.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\WcEUk79U.gz",
+      "SourceId": "ARILandingBlazor.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\Wf5+VcAw.gz",
@@ -6832,23 +7070,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.timezones.blat"
-    },
-    {
-      "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\Yq6X7Lb2.gz",
-      "SourceId": "ARILandingBlazor.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Proyectos\\ARILandingBlazor\\ARILandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\z67g0dCt.gz",
